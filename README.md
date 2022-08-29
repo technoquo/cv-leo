@@ -49,6 +49,8 @@ This project is developed by Laravel, a PHP framework. Laravel is my favorite
 framework.
 My skill: command php artisan, MVC, Eloquent and Tailwindcss , Git
 
+[Yo Sé LESCO](https://yoselesco.handsonlesco.com/)
+
 [Diccionario de LESCO](https://diccionario.handsonlesco.com/)
 
 [Planeamiento para Profesores de Lengua de Señas](https://planeamiento.handsonlesco.com/)
