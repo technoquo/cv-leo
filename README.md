@@ -16,7 +16,7 @@ I not have problem to communicate with clients from work home
 thanks for the accesible tool like chat, whatsapp (only text), email,
 Discord and many things except audio.
 
-My level english is A2, I can read and write technical english .
+My level english between A2 and B1, I can read and write technical english .
 I am an entrepreneur of a Acceso Visual microenterprise in the fight
 for accessibility and I collaborate as an INTECO auditor with the
 committee of web experts about the new accessibility standards for
@@ -24,12 +24,8 @@ deaf people.
 
 
 
-
-
-
-
 ## 🛠 Skills
-Javascript, HTML, CSS, Laravel, PHP, MySQL, WordPress, Tailwindcss, Vue, React
+ Laravel, PHP, Javascript, HTML, CSS, MySQL, WordPress, Tailwindcss, Vue, React
 
 
 ## Experience
@@ -44,7 +40,7 @@ LARAVEL AND TAILWINDSCSS
 
 I develop differents project with a company Hands On , this project is for the
 hearing students, they learn LESCO to communicate with the deaf community.
-Page 1 of 3
+
 This project is developed by Laravel, a PHP framework. Laravel is my favorite
 framework.
 My skill: command php artisan, MVC, Eloquent and Tailwindcss , Git
@@ -157,6 +153,8 @@ Diploma of Education, Costa Rican Sign Language Instructor
 **Programing:** Laravel, PHP
 
 **Operating System:** Ubuntu 24.0, Windows
+
+**Microservice:** Laravel witch Docker on Windows
 
 
 ## autodidact
