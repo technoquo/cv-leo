@@ -64,7 +64,7 @@ San José, Costa Rica
 We are a company dedicated to the design, development, maintenance of
 websites, video productions in LESCO that are accessible to deaf people.
 
-[Hands On LESCO](https://accesovisualcr.com/)
+[Acceso Visual](https://accesovisualcr.com/)
 
 WordPress teacher for deaf
 septiembre de 2018 - Present (3 años 11 meses)
