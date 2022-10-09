@@ -78,6 +78,12 @@ Speaker 2017 (https://sanjose.wordcamp.org/2017/speaker/leonel-lopez/)
 
 Speaker 2019 (https://sanjose.wordcamp.org/2019/speaker/leonel-lopez/)
 
+Projects 
+
+LESCO por Costa Rica (https://lescoporcostarica.com/)
+
+Centro Integral de LESCO (https://cilescocr.com/)
+
 
 ### Bananacode
 
