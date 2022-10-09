@@ -64,10 +64,15 @@ San José, Costa Rica
 We are a company dedicated to the design, development, maintenance of
 websites, video productions in LESCO that are accessible to deaf people.
 
+[Hands On LESCO](https://accesovisualcr.com/)
+
 WordPress teacher for deaf
 septiembre de 2018 - Present (3 años 11 meses)
 San José, Costa Rica
-
+(http://migracion.ucr.ac.cr/noticias/finaliza-curso-de-wordpress-para-personas-sordas/)
+Meetup Testimonial  (https://wordpress.tv/2017/03/09/meetup-testimonial-costa-rica/)
+Speaker 2017 (https://sanjose.wordcamp.org/2017/speaker/leonel-lopez/)
+Speaker 2019 (https://sanjose.wordcamp.org/2019/speaker/leonel-lopez/)
 
 ### Bananacode
 
