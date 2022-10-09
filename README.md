@@ -155,7 +155,7 @@ Diploma of Education, Costa Rican Sign Language Instructor
 
 **Server:** Node
 
-**Programing:** Laravel, PHP
+**Programing:** Laravel, PHP, WordPress
 
 **Operating System:** Ubuntu 24.0, Windows
 
