@@ -1,7 +1,7 @@
 
 # Leonel López Borbón
 
-I am a Mid Full-Stack Web Developer. I'm passionate about Front-end and all the tools that that compreden, although I'm also comfortable back-end as well. I consider myself a resolute, dynamic, responsible and always motivated by learning.
+I am deaf person and I am a Mid Full-Stack Web Developer. I'm passionate about Front-end and all the tools that that compreden, although I'm also comfortable back-end as well. I consider myself a resolute, dynamic, responsible and always motivated by learning.
 
 On a personal level, my interests are sports, family, accesibility,  traveling and movies
 
@@ -9,9 +9,9 @@ On a personal level, my interests are sports, family, accesibility,  traveling a
     •  I’m  improving on Laravel and Vue
     •  I’m looking to collaborate on a project with Laravel.
     •  I’m looking for a remote job!
+    •  I can easily communicate with people without a communication barrier through chat, whatsapp and email simply and nothing complicate
     •  I'm loving all-things Vue, Livewire, Inertia, Filament and Laravel. Have recently worked on my first Full-Stack project.
     •  I´m enjoy learn and earn everything!
-
 
 
 ## 🛠 Skills & Tech Stack
