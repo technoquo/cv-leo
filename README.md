@@ -6,11 +6,11 @@ I am a Mid Full-Stack Web Developer. I'm passionate about Front-end and all the 
 On a personal level, my interests are sports, family, accesibility,  traveling and movies
 
     •  I’m loving to learn stacks on Youtube and Laracast.
-    •  I’m  improving on Laravel and Vuen
+    •  I’m  improving on Laravel and Vue
     •  I’m looking to collaborate on a project with Laravel.
     •  I’m looking for a remote job!
     •  I'm loving all-things Vue, Livewire, Inertia, Filament and Laravel. Have recently worked on my first Full-Stack project.
-    •  I´m enjoy earn everything!
+    •  I´m enjoy learn and earn everything!
 
 
 
