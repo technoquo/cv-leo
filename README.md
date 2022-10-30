@@ -1,31 +1,53 @@
 
 # Leonel López Borbón
 
-My name is Leonel López Borbón, bachelor's degree in computer
-engineering from the Latin American University of Science and
-Technology (ULACIT) and Costa Rican Sign Language Instructor
-graduated from the University of Costa Rica. I am a deaf person.
-I am web developer and love to learn new technology each day aslo
-I like to research, implement and test a lenguage program like PHP,
-node, WordPress, Magento, Laravel and others.
+I am a Mid Full-Stack Web Developer. I'm passionate about Front-end and all the tools that that compreden, although I'm also comfortable back-end as well. I consider myself a resolute, dynamic, responsible and always motivated by learning.
 
-For now I am on focus in Laravel because this framework is best
-fast , reuse code and solid.
+On a personal level, my interests are sports, family, accesibility,  traveling and movies
 
-I not have problem to communicate with clients from work home
-thanks for the accesible tool like chat, whatsapp (only text), email,
-Discord and many things except audio.
-
-My level english between A2 and B1, I can read and write technical english .
-I am an entrepreneur of a Acceso Visual microenterprise in the fight
-for accessibility and I collaborate as an INTECO auditor with the
-committee of web experts about the new accessibility standards for
-deaf people.
+    •  I’m loving to learn stacks on Youtube and Laracast.
+    •  I’m  improving on Laravel and Vuen
+    •  I’m looking to collaborate on a project with Laravel.
+    •  I’m looking for a remote job!
+    •  I'm loving all-things Vue, Livewire, Inertia, Filament and Laravel. Have recently worked on my first Full-Stack project.
+    •  I´m enjoy earn everything!
 
 
 
-## 🛠 Skills
- Laravel, PHP, Javascript, HTML, CSS, MySQL, WordPress, Tailwindcss, Vue, React
+## 🛠 Skills & Tech Stack
+
+**Client:**   Vue, TailwindCSS, GIT
+
+**Front-end:** Laravel, vue
+
+**Back-end:** Laravel (inertia, blade, livewire)
+
+**Databases:**  MySQL.
+
+**Server:** Node
+
+**Programing:** Laravel, PHP, WordPress
+
+**Operating System:** Ubuntu 24.0, Windows
+
+**Microservice:** Laravel witch Docker on Windows
+
+**Development tools:** VSCode, Terminal, Console, GitHub.
+
+**Teamwork and communication tools:**  GitHub, Discord, Slack.
+
+
+## autodidact
+
+
+- [Laraveller](https://www.youtube.com/c/Laraveller/)
+- [Code with Dary](https://www.youtube.com/c/CodeWithDary/)
+- [Course Vue with Fernando Herrera](https://www.udemy.com/course/vuejs-fh/)
+- [Course Laravel 9 with Juan de la Torre](https://www.udemy.com/course/curso-laravel-crea-aplicaciones-y-sitios-web-con-php-y-mvc/)
+- [Laracast](https://laracasts.com/)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelobo/)
 
 
 ## Experience
@@ -44,6 +66,9 @@ hearing students, they learn LESCO to communicate with the deaf community.
 This project is developed by Laravel, a PHP framework. Laravel is my favorite
 framework.
 My skill: command php artisan, MVC, Eloquent and Tailwindcss , Git
+
+
+[Deletreo digital LESCO](https://deletreo.handsonlesco.com/)
 
 [Yo Sé LESCO](https://yoselesco.handsonlesco.com/)
 
@@ -154,32 +179,3 @@ Bachelor's degree, Computer Engineering · (1996 - 2010)
 Universidad de Costa Rica
 Diploma of Education, Costa Rican Sign Language Instructor
 (LESCO) · (2006 - 2009)
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelobo/)
-
-
-## Tech Stack
-
-**Client:** React, Vue, TailwindCSS, GIT
-
-**Server:** Node
-
-**Programing:** Laravel, PHP, WordPress
-
-**Operating System:** Ubuntu 24.0, Windows
-
-**Microservice:** Laravel witch Docker on Windows
-
-
-## autodidact
-
-
-- [Laraveller](https://www.youtube.com/c/Laraveller/)
-- [Code with Dary](https://www.youtube.com/c/CodeWithDary/)
-- [Course Vue with Fernando Herrera](https://www.udemy.com/course/vuejs-fh/)
-- [Course Laravel 9 with Juan de la Torre](https://www.udemy.com/course/curso-laravel-crea-aplicaciones-y-sitios-web-con-php-y-mvc/)
-
-
-
